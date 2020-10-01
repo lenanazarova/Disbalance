@@ -14,6 +14,8 @@ https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 ## Библиотеки
 -pandas
+
 -sklearn
+
 -numpy
 
